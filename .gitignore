@@ -1,2 +1,16 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS generated
+.DS_Store
+
 # Reasonix 工具内部状态
 .reasonix/
